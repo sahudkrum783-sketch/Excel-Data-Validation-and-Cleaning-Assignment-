@@ -94,8 +94,10 @@ This assignment was completed as part of Excel practice to strengthen understand
 
 ## 📌 Author
 
-**Anushka Sahu**/n
+**Anushka Sahu**
+
 🔗 LinkedIn: https://www.linkedin.com/in/anushkasahu783/
+
 ---
 
 ⭐ *This project reflects hands-on Excel practice focused on data quality and validation.*
